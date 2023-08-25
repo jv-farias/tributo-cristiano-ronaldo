@@ -20,12 +20,12 @@ Experimente o site de tributo em primeira mão visitando o seguinte link: [Tribu
 - HTML5
 - CSS3
 
-## Como Contribuir 🤝
-Suas contribuições para aprimorar o site são muito valorizadas. Siga essas etapas para contribuir:
+## 📸 Capturas de Tela
+- Versão Mobile
+<img src="https://github.com/jv-farias/tributo-cristiano-ronaldo/assets/84153149/3e6b13b8-5cd8-4ed6-a4c6-148a57fde6f9" width="800px">
 
-1. Faça um fork deste repositório para o seu perfil do GitHub.
-
-2. Clone o repositório forkado para o seu ambiente de desenvolvimento local:
+- Versão Desktop
+<img src="https://github.com/jv-farias/tributo-cristiano-ronaldo/assets/84153149/7e2c360e-333a-41e8-a2e4-626ad968846d" width="800px">
 
 ## Como Contribuir 🤝
 Suas contribuições para aprimorar o Site de Tributo a Cristiano Ronaldo são muito valorizadas. Siga essas etapas para contribuir:
