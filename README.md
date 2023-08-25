@@ -4,7 +4,7 @@
 Bem-vindo ao Site de Tributo a Cristiano Ronaldo! 🎉🏆 Mergulhe na extraordinária jornada e conquistas de Cristiano Ronaldo, um dos jogadores de futebol mais lendários da história. Veja os principais momentos de sua carreira e até mesmo os títulos conquistados.
 
 ## Acesse o Site 🌐
-Experimente o site de tributo em primeira mão visitando o seguinte link: [Tributo a Cristiano Ronaldo](https://link_do_seu_site.com)
+Experimente o site de tributo em primeira mão visitando o seguinte link: [Tributo a Cristiano Ronaldo](https://jv-farias.github.io/tributo-cristiano-ronaldo/)
 
 ## Conteúdo do Projeto 🚀
 
@@ -59,9 +59,9 @@ git push origin feature/sua-feature
 
 Gostaria de expressar minha gratidão a dois parceiros incríveis que contribuíram para a realização deste projeto.
 
-**Gustavo** e **Rodrigo**, foram responsáveis pela atenção minuciosa à detalhes e suas contribuições ajudaram na identificação e correção de erros de código.
+**[Gustavo](https://github.com/Gustavo-S-Nascimento)** e **[Rodrigo](https://github.com/RodrigoNet0)**, foram responsáveis pela identificação e correção de pequenos detalhes e suas contribuições ajudaram a melhorar o código.
 
 Este projeto não teria sido o mesmo sem o nosso esforço em conjunto.
 
 
-
+<p align="center">Feito com ❤️ por João Vitor</p>
